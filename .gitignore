@@ -1,0 +1,3 @@
+dist/
+./aliyun_oss_sync.log
+*.spec

@@ -1,0 +1,15 @@
+[
+    {
+        "access_key_id": "",
+        "access_key_secret": "",
+        "endpoint": "oss-cn-shenzhen.aliyuncs.com",
+        "bucket_name": "",
+        "local_path": "/tmp/1",
+        "oss_path": "test/basedata/",
+        "direction": "local2oss",
+        "exclude": [
+            ".git/",
+            ".DS_Store"
+        ]
+    }
+]
